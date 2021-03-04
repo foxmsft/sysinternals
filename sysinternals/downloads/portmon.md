@@ -52,7 +52,7 @@ features.
 
 The on-line help-file describes all these features, and more, in detail.
 
-![PortMon](/media/landing/sysinternals/PortMon.gif)  
+![Portmon screenshot](/media/landing/sysinternals/PortMon.gif)  
 
 ## Installation and Use
 

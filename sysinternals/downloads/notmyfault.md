@@ -31,7 +31,7 @@ Chapter 14 uses it for crash analysis examples.
 
 ## Screenshots
 
-![NotMyFault](/media/landing/sysinternals/notmyfault.png "NotMyFault")
+![NotMyFault screenshot](/media/landing/sysinternals/notmyfault.png "NotMyFault")
 
 ## Usage
 

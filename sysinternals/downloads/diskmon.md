@@ -49,7 +49,7 @@ stamped with the absolute time that they were initiated. The History
 Depth dialog can be used to specify the maximum number of records that
 will be kept in the GUI (0 signifies no limit).
 
-![DiskMon](/media/landing/sysinternals/DiskMon.gif)
+![DiskMon screenshot](/media/landing/sysinternals/DiskMon.gif)
 
 ## Implementation
 
