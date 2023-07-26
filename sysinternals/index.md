@@ -32,7 +32,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 - [ZoomIt v7.1](~/downloads/zoomit.md)  
 This update to ZoomIt adds audio capture to screen recording.
 
-- [ProcDump 2.0 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
+- [ProcDump 2.0 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/2.0)  
 ProcDump for Linux, a flexible tool for manual and trigger-based process dump generation, receives two new .NET GC triggers (-gcm and -gcgen) and updates the existing memory trigger to allow for multiple thresholds.
 
 ### What's New (June 27, 2023)
