@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 08/19/2026
+ms.date: 09/09/2026
 ---
 
 # 
@@ -37,6 +37,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (September 9, 2026)
+
+- [Autoruns 1.0 for Linux](https://github.com/microsoft/Autoruns-for-Linux/releases/tag/1.0.0)  
+Autoruns, a utility for monitoring startup items, is now available on Linux and written in Rust.
 
 ### What's New (August 19, 2026)
 
