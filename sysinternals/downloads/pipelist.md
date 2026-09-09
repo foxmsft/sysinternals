@@ -4,12 +4,12 @@ title: Pipelist
 description: Displays the named pipes on your system, including the number of maximum instances and active instances for each pipe.
 ms:assetid: 'c379bcf5-754c-46b0-807d-1266658bd8be'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd581625(v=MSDN.10)'
-ms.date: 09/09/2026
+ms.date: 09/10/2026
 ---
 
 # PipeList v1.03
 
-Published: September 9, 2026
+Published: September 10, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(496 KB)**
 
