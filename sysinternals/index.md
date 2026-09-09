@@ -11,7 +11,7 @@ ms.date: 08/19/2026
 # 
 
 > [!div class="display-flex align-items-center justify-content-center font-size-h1 font-weight-semibold"]
-> <span class="display-flex align-items-center justify-content-center font-size-h1 font-weight-semibold"><img src="media/index/sysinternals.png" alt="Sysinternals icon" data-linktype="relative-path">&nbsp;Sysinternals</span>
+> <span class="display-flex align-items-center font-size-h1 font-weight-semibold"><img src="media/index/sysinternals.png" alt="Sysinternals icon" data-linktype="relative-path">&nbsp;Sysinternals</span>
 
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows and Linux systems and applications.  
 -   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
@@ -21,10 +21,6 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 -   Read [Mark’s Blog](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/resources/index.md) page
 -   Post your questions in the [Sysinternals Forum](https://aka.ms/sysint-forums)
-
----
-## Sysinternals 30<sup>th</sup> Anniversary
-[![sysinternals30](media/index/sysinternals30_banner.png)](https://aka.ms/sysinternals30)
 
 ---
 ## Sysinternals Live
