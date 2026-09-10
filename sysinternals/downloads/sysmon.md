@@ -14,7 +14,7 @@ ms.date: 09/10/2026
 
 Published: September 10, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(2.8 MB)**
 
 [**Download Sysmon for Linux (GitHub)**](https://github.com/microsoft/SysmonForLinux)
 
@@ -571,9 +571,9 @@ generated for the termination of `ping.exe` and `timeout.exe`.
   </EventFiltering>
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(2.8 MB)**
   
 **Runs on:**
 
-- Client: Windows 10 and higher.
-- Server: Windows Server 2016 and higher.
+- Client: Windows 11 and higher.
+- Server: Windows Server 2019 and higher.

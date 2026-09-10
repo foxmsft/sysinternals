@@ -11,7 +11,7 @@ ms.date: 09/10/2026
 
 Published: September 10, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(496 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(295 KB)**
 
 ## Introduction
 
@@ -26,10 +26,10 @@ to list the pipes. The directory listing NPFS returns also indicates the
 maximum number of pipe instances set for each pipe and the number of
 active instances.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(496 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(295 KB)**
 
 **Runs on:**
 
-- Client: Windows Vista and higher
-- Server: Windows Server 2008 and higher
-- Nano Server: 2016 and higher
+- Client: Windows 11 and higher
+- Server: Windows Server 2019 and higher
+- Nano Server: 2019 and higher
